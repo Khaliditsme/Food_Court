@@ -16,7 +16,7 @@ const Header = ()=>{
                     <li className='list_item'><Link to="/">Home</Link></li>
                     <li><Link to="/about">About</Link></li>
                     <li><Link to="/contact">Contact</Link></li>
-                    <li><button className='cart header_button'>Cart</button></li>
+                    {/* <li><button className='cart header_button'>Cart</button></li> */}
                 </ul>
             </nav>
         </div>
